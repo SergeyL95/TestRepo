@@ -1,3 +1,4 @@
 message from Sergey
 message from Remote Repo
 one more message from Remote
+some changes from Master

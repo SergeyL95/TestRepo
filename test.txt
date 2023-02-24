@@ -1,3 +1,0 @@
-message from Sergey
-message from Remote Repo
-some changes from Master
